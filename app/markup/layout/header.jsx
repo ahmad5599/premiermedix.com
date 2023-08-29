@@ -283,7 +283,7 @@ const Header = () => {
             >
               <div className="menu-logo">
                 <Link href="/">
-                  <img src={logoWhite.src} alt="" />
+                  <img src={logo.src} alt="" />
                 </Link>
               </div>
 
