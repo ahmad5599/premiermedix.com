@@ -183,7 +183,7 @@ class aboutSection extends Component {
                               paddingTop: "1rem",
                             }}
                           >
-                            510-209-3111
+                            (877) 780-6999
                           </p>
                         </span>
                       </li>
@@ -204,7 +204,7 @@ class aboutSection extends Component {
                               paddingTop: "1rem",
                             }}
                           >
-                            +1 510 209 3111
+                            (877) 780-6999
                           </p>
                         </span>
                       </li>
