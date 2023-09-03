@@ -169,7 +169,7 @@ class ContactUs extends Component {
                           <div href="#" className="text-white">
                             info@premiermedix
                           </div>
-                          <p>+1 510 209 3111</p>
+                          <p>(877) 780-6999</p>
                         </div>
                         <div className="icon-box">
                           <h6 className="title">
@@ -223,7 +223,7 @@ class ContactUs extends Component {
                     </div>
                     <div className="icon-content">
                       <h5 className="ttr-title">Contact Number</h5>
-                      <p>+1 510 209 3111</p>
+                      <p>(877) 780-6999</p>
                     </div>
                   </div>
                 </div>
